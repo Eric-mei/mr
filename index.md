@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 🎙 项目背景
-[![Alt text](https://eric-mei.github.io/mr/assets/img/Intro.png)(http://example.net/)
+[![Alt text](https://eric-mei.github.io/mr/assets/img/Intro.png)](http://example.net/)
 
 
 # 🎙 项目详情
