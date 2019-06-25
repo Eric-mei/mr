@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 🎙 项目背景
-[![Overview](https://eric-mei.github.io/mr/assets/img/overview.png)](https://v.qq.com/x/page/t0889jhz5qq.html)
+[![Alt text](https://eric-mei.github.io/mr/assets/img/Intro.png)](<a href="https://v.qq.com/x/page/t0889jhz5qq.html" target="blank">点击观看详情</a> )
 
 
 # 🎙 项目详情
