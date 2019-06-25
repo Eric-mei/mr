@@ -4,7 +4,7 @@ layout: default
 
 # 🎙 项目介绍
 
-<iframe width="400" height="250" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" frameborder="0" allowFullScreen="False"></iframe>
+<iframe width="510" height="315" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" frameborder="0" allowFullScreen="False"></iframe>
 
 
 
