@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 🎙 项目背景
-[![Alt text](https://eric-mei.github.io/mr/assets/img/Intro.png)](<a href="https://www.w3schools.com" target="blank"></a> )
+[![Alt text](https://eric-mei.github.io/mr/assets/img/Intro.png)](href="https://www.w3schools.com" target="blank")
 
 
 # 🎙 项目详情
