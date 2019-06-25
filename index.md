@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# 📌 项目介绍
+# 🎙 项目介绍
 
 >本实验教学项目构建了“一故事+五个场景”的实验教学流程。帮助学生浸入到语言应用的仿真环境中，更好地在目标语言的语境下了解我们的校园，在相互合作完成任务的同时，也增进彼此之间的了解，从而实现学生英语综合使用能力的提升。
 
@@ -31,7 +31,7 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-#💡 知识点
+# 💡 知识点
 
 1. 方位的表达（例如，介词的正确使用）
 2. 相关术语（包括建筑、历史、自然环境及文化等方面）的英文表达
