@@ -4,7 +4,7 @@ layout: default
 
 # 🎙 项目背景
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" autosize='"true" allowFullScreen="true"></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" allowFullScreen="true"></iframe>
 
 
 
