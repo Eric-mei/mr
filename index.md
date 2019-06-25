@@ -61,4 +61,4 @@ layout: default
 
 * * *
 
-![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="https://v.qq.com/x/page/t0889jhz5qq.html" target="blank">点击观看详情</a> )
+![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="https://apps.apple.com/us/app/aris/id371788434" target="blank">点击安装相关软件</a> )
