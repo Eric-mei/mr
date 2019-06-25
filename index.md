@@ -7,7 +7,7 @@ layout: default
 <iframe height=498 width=510 src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" frameborder="0"  allowFullScreen="False"></iframe>
 
 
-<iframe width="560" height="315" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" frameborder="0" allowfullscreen></iframe>
+<iframe width="510" height="315" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" frameborder="0" allowFullScreen="False"></iframe>
 
 
 
