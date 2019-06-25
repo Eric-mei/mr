@@ -1,1 +1,6 @@
+title: 基于虚拟仿真技术的移动英语课堂建设
+logo: /assets/img/logo.png
+description: 本项目拟结合游戏化学习与基于地理坐标的移动增强现实技术，借助移动便携设备内置的位置芯片提供的地理坐标信息，实现基于河南大学明伦校区校园环境的英语课堂。
+show_downloads: False
+google_analytics:
 theme: jekyll-theme-minimal
