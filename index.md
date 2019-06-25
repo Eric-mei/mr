@@ -34,6 +34,11 @@ layout: default
 2. 相关术语（包括建筑、历史、自然环境及文化等方面）的英文表达
 3. 英文说明文的写作
 
+# 📱 实验设备
+内置位置芯片与相机的智能移动便携设备。
+
+
+
 
 
 ![Alt text](https://eric-mei.github.io/mr/assets/img/overview.png)(<a href="https://v.qq.com/x/page/t0889jhz5qq.html" target="blank">点击观看详情</a> )
