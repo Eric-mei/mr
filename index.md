@@ -3,19 +3,13 @@ layout: default
 ---
 
 # 🎙 项目背景
-
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0889jhz5qq" allowFullScreen="true"></iframe>
-
-
 
 
 # 🎙 项目详情
 本实验教学项目构建了“一故事+五个场景”的实验教学流程。帮助学生浸入到语言应用的仿真环境中，更好地在目标语言的语境下了解我们的校园，在相互合作完成任务的同时，也增进彼此之间的了解，从而实现学生英语综合使用能力的提升。
 
 ![Intro](https://eric-mei.github.io/mr/assets/img/Intro.png)
-
-
-
 
 
 # 👨🏻‍🎓 服务团队
@@ -28,14 +22,9 @@ layout: default
 | 杨书霞         | 副教授 |  博士  | 实验教学  |
 | 申少帅          | 讲师 |  博士  | 技术支持  |
 
-
-
 # 🚩 实验目的
 
 借助虚拟仿真技术为外语教育提供的形象化、沉浸式的体验，基于其在视觉和感知方面的优势以及教学的需求，整合资源，增加信息的类别与数量，颠覆“一支粉笔+一本书+一块黑板”的传统授课方式，帮助教师带领学生打破时空的界限，浸入到语言应用的仿真环境中，达到提高其英语实际运用能力的水平。
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # 💡 知识点
 
