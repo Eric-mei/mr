@@ -44,4 +44,4 @@ layout: default
 
 * * *
 
-![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="" target="blank">点击安装相关软件</a> )
+![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="https://apps.apple.com/us/app/aris/id371788434" target="blank">点击安装相关软件</a> )
