@@ -49,6 +49,6 @@ layout: default
 
 <a href="https://eric-mei.github.io/mr/assets/img/file.usdz" rel="ar">
 
-<img src="http://example.com/image.jpg">
+<img src="https://eric-mei.github.io/mr/assets/img/project.png">
 
 </a>
