@@ -45,3 +45,10 @@ layout: default
 * * *
 
 ![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="https://apps.apple.com/us/app/aris/id371788434" target="https://apps.apple.com/us/app/aris/id371788434">点击安装相关软件</a> )
+
+
+<a href="https://eric-mei.github.io/mr/assets/img/file.usdz" rel="ar">
+
+<img src="http://example.com/image.jpg">
+
+</a>
