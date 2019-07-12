@@ -45,9 +45,3 @@ layout: default
 * * *
 
 ![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a href="https://apps.apple.com/us/app/aris/id371788434" target="https://apps.apple.com/us/app/aris/id371788434">点击安装相关软件</a> )
-
-<iframe id="fb67b1bc-71d5-459b-8b5e-76674f1fc4ae" src="https://www.vectary.com/embed/viewer/v1/viewer.html?model=fb67b1bc-71d5-459b-8b5e-76674f1fc4ae&env=default&autoplay=1&turntable=0&showPreloader=1" frameborder="0" width="100%" height="480"></iframe>
-
-<iframe src="http://cloud.insta360.com/post/17639af7a574ecab87e96142b6a5425b?e=true" frameborder="0" width="100%" height="100%" scrolling="no" style="border:none;overflow-x:hidden;"></iframe>
-
-![Alt text](https://eric-mei.github.io/mr/assets/img/project.png)(<a target="https://eric-mei.github.io/mr/assets/img/file.usdz" rel="ar">)
